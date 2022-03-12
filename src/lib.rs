@@ -1,0 +1,11 @@
+mod driver_int;
+mod eicode;
+mod ei_connect;
+mod ei;
+mod erl_driver;
+mod erl_drv_nif;
+mod erl_fixed_size_int_types;
+mod erl_interface;
+mod erl_int_sizes_config;
+mod erl_memory_trace_parser;
+mod erl_nif;
